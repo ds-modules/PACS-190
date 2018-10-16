@@ -1,4 +1,4 @@
-# glblst_txt18
+# PACS-190
 Introductory text analysis workshop for Crystal Chang's senior thesis class.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/PACS-195/master)
