@@ -4,7 +4,7 @@
 
 The goal of this module is to use sentiment analysis and bag of words to analysis text. In this module, we will go over a basic Python tutorial that introduces the Jupyter Notebook interface and string functions, bag-of-words / term document matrix, sentiment analysis, and regex. We will be counting tokens from Obama's 2015 UN speech and performing sentiment analysis on Donald Trump's tweets. 
 
-**Developers: Keely Takimoto, Tina Nguyen**
+**Developers: Keeley Takimoto, Tina Nguyen**
 
 **Some content adapted from Chris Hench Pre-TextXD-2017-Workshop github**
 
